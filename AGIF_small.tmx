@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20160831T090843Z" creationid="IOLAR\z-andrazr">
+    <prop type="x-Status:MultiplePicklist">Approved,Client change,EU terms,KIID,New,Read Only,Updated</prop>
+    <prop type="x-Atlas:MultiplePicklist">37811,38388,39668,40727,42037,46491,48615,51056,54399,56959,57947,59549,66252</prop>
+    <prop type="x-FT KIID:MultiplePicklist">100360,10789,142484,1659346-1659534,167793,178634,1948929,2127724,2352111,250734,261218,3144892,389902,3946322,544709-545173-574126-574800,619809.620178.620393.630968,663544-660985,672323-679548,7329949-7331368,735313,8770212,9388187-9388376,web content,web content cookie and legal</prop>
+    <prop type="x-Date:MultiplePicklist">Apr 2013,Dec 2012,December 2011,January 2012,July 2012,Mar 2013,May 2012,Oct 2012,Oct 2013,Sept 2012</prop>
+    <prop type="x-Document:MultiplePicklist">FT KIID,New Modules</prop>
+    <prop type="x-Text Field:MultipleString"></prop>
+    <prop type="x-Recognizers">RecognizeDates, RecognizeTimes, RecognizeNumbers, RecognizeMeasurements</prop>
+    <prop type="x-TMName">AGIF ENgb-SL_en-GB_sl-SI</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+  </header>
+  <body>
+    <tu creationdate="20140527T093450Z" creationid="AR_00" changedate="20140527T093450Z" changeid="AR_00" lastusagedate="20140527T093450Z">
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
+      <tuv xml:lang="en-GB">
+        <seg>from launch it is invested in a bond portfolio, whose average residual term is initially 5 years and is oriented towards the Subfund’s first target date (30 November 2018).</seg>
+      </tuv>
+      <tuv xml:lang="sl-SI">
+        <seg>od začetka poslovanja vlaga v obvezniški portfelj, ki ima začetno povprečno preostalo zapadlost pet let in je usmerjen proti prvemu ciljnemu datumu podsklada (30. november 2018).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140527T093534Z" creationid="AR_00" changedate="20140527T093534Z" changeid="AR_00" lastusagedate="20140527T093534Z">
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In the bond portfolio, at least 80% of the assets are invested in securities denominated in USD of companies based in the USA.</seg>
+      </tuv>
+      <tuv xml:lang="sl-SI">
+        <seg>V obvezniškem portfelju se vsaj 80 % sredstev vloži v dolarske vrednostne papirje podjetij s sedežem v ZDA.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20110425T173216Z" creationid="CLAUDIA" changedate="20110425T173216Z" changeid="CLAUDIA" lastusagedate="20110425T173216Z">
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
+      <tuv xml:lang="en-GB">
+        <seg>However weakness in the housing market and continued high levels of unemployment spurred fears of a double-dip recession in the summer months.</seg>
+      </tuv>
+      <tuv xml:lang="sl-SI">
+        <seg><bpt i="1" type="1" />Vendar pa so šibak nepremičninski trg in nadaljnje visoke stopnje nezaposlenosti povzročile zaskrbljenost glede recesije z dvojnim <ept i="1" /><bpt i="2" type="2" />dnom v poletnih mesecih.<ept i="2" /></seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
